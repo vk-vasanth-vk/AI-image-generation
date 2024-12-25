@@ -1,1 +1,1 @@
-# AI-image-generation
+# AI-image-generation using MERN Stack
